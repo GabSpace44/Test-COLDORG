@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "read",
+      "write",
+      "execute"
+    ],
+    "deny": [
+    //  "read:.env",
+      "read:chroma_db/"
+    ]
+  },
+  "autoApprove": [
+    "read"
+  ]
+}
