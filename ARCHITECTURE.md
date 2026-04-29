@@ -320,7 +320,7 @@ MAX_CHUNK_TOKENS=200
 ## 12. Arborescence du projet
 
 ```
-coldorg-rag/
+Test-COLDORG/
 │
 ├── data/
 │   ├── interventions.json
