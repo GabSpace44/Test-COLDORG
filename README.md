@@ -42,7 +42,7 @@ Le système s'appuie sur :
 
 ```bash
 git clone <url-du-repo>
-cd coldorg-rag
+cd Test-COLDORG
 ```
 
 ### 2. Créer un environnement virtuel
@@ -125,7 +125,7 @@ Ouvrez votre navigateur sur [http://localhost:7860](http://localhost:7860)
 ## 📁 Structure du projet
 
 ```
-coldorg-rag/
+Test-COLDORG/
 │
 ├── data/                          # Données sources
 │   ├── interventions.json         # 30 interventions passées
