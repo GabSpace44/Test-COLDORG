@@ -5,11 +5,9 @@ Assistant RAG (Retrieval-Augmented Generation) pour techniciens de maintenance C
 Développé par **Gabriel SURIER** dans le cadre d'un test technique COLDORG.
 
 ## Préambule 
- Ce POC a été développé en alliant conception technique personnelle et assistance par IA.
-La première phase a été consacrée à la définition de l'architecture globale et à l'élaboration d'un mapping de bout en bout, incluant une structuration rigoureuse des métadonnées. Cette approche méthodique a permis de cadrer précisément le périmètre technique avant toute implémentation.
-Les fichiers de spécifications (ARCHITECTURE.md, CLAUDE_CODE_INSTRUCTIONS.md, CLAUDE.md) ont ensuite été rédigés afin de formaliser les intentions techniques et de guider l'implémentation. Claude Code a été utilisé comme assistant technique à cette étape, permettant d'aboutir à une interface Gradio et des appels API Groq fonctionnels en 4 à 5 itérations.
-L'intelligence artificielle a été mobilisée comme outil d'accélération du développement. L'ensemble des décisions relatives à l'architecture, à la structure et à la conception technique ont été prises et assumées de manière autonome.
-
+Ce POC a été développé en alliant conception technique personnelle et assistance par IA. La première phase a été consacrée à la définition de l'architecture globale et à l'élaboration d'un mapping de bout en bout, incluant une structuration rigoureuse des métadonnées. L'IA a été activement sollicitée à chaque étape pour explorer l'état de l'art des architectures RAG et identifier les meilleures approches disponibles. Cette démarche itérative a permis de cadrer précisément le périmètre technique avant toute implémentation, en s'appuyant sur une veille technologique assistée.
+Les fichiers de spécifications ont ensuite été rédigés afin de formaliser les intentions techniques et de guider l'implémentation. Claude Code a été utilisé comme assistant technique, permettant d'aboutir à une interface Gradio et des appels API Groq fonctionnels en 4 à 5 itérations.
+L'intelligence artificielle a été mobilisée comme outil d'accélération du développement et d'exploration des choix techniques. Les arbitrages finaux, à savoir la validation des approches, la priorisation des contraintes et la cohérence d'ensemble, ont été assumés de manière autonome.
 ---
 
 ## 🎯 Objectif
