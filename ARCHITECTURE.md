@@ -19,7 +19,7 @@ Construire un prototype fonctionnel de système RAG (Retrieval-Augmented Generat
 - **Truncate / Insert direct** — pas d'ingestion incrémentale, pas d'ODS, pas de DWH
 - **Local first** — ChromaDB local, embeddings locaux, LLM via API gratuite
 - **Destructible et réutilisable** — le projet se relance from scratch en une commande
-- **Reproductible** — le recruteur clone, configure son `.env`, lance `main.py`
+- **Reproductible** — l'utilisateur clone, configure son `.env`, lance `main.py`
 
 ---
 
