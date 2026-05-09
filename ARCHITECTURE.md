@@ -1,4 +1,4 @@
-# Documentation Architecture — COLDORG RAG Assistant
+# Documentation Architecture — CVC RAG Assistant
 
 > Document de référence technique rédigé avant développement.  
 > Validé par Gabriel SURIER 
@@ -320,7 +320,7 @@ MAX_CHUNK_TOKENS=200
 ## 12. Arborescence du projet
 
 ```
-Test-COLDORG/
+rag-CVC/
 │
 ├── data/
 │   ├── interventions.json
