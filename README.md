@@ -1,8 +1,8 @@
-# COLDORG RAG Assistant 🔧
+# CVC RAG Assistant 🔧
 
 Assistant RAG (Retrieval-Augmented Generation) pour techniciens de maintenance CVC.
 
-Développé par **Gabriel SURIER** dans le cadre d'un test technique COLDORG.
+Développé par **Gabriel SURIER** dans le cadre d'un test technique pour une startup CVC.
 
 ## Préambule 
 Ce POC a été développé en alliant conception technique personnelle et assistance par IA. La première phase a été consacrée à la définition de l'architecture globale et à l'élaboration d'un mapping de bout en bout, incluant une structuration rigoureuse des métadonnées. L'IA a été activement sollicitée à chaque étape pour explorer l'état de l'art des architectures RAG et identifier les meilleures approches disponibles. Cette démarche itérative a permis de cadrer précisément le périmètre technique avant toute implémentation, en s'appuyant sur une veille technologique assistée.
@@ -42,7 +42,7 @@ Le système s'appuie sur :
 
 ```bash
 git clone <url-du-repo>
-cd Test-COLDORG
+cd rag-CVC
 ```
 
 ### 2. Créer un environnement virtuel
@@ -125,7 +125,7 @@ Ouvrez votre navigateur sur [http://localhost:7860](http://localhost:7860)
 ## 📁 Structure du projet
 
 ```
-Test-COLDORG/
+rag-CVC/
 │
 ├── data/                          # Données sources
 │   ├── interventions.json         # 30 interventions passées
@@ -283,4 +283,4 @@ Profil : Ingénieur Data
 
 ## 📄 Licence
 
-Projet réalisé dans le cadre d'un test technique pour COLDORG.
+Projet réalisé dans le cadre d'un test technique pour une startup IA -CVC.
